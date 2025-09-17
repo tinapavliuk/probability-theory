@@ -54,7 +54,7 @@ data_input = st.text_area(
 )
 
 uploaded_file = st.file_uploader(
-    "Або завантаж CSV-файл з одним стовпцем чисел",
+    "Або завантажте CSV-файл з одним стовпцем чисел",
     type=["csv"]
 )
 
